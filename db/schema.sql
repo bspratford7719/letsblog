@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS letsblog_db;
+
+CREATE DATABASE letsblog_db;
